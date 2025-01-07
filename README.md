@@ -18,7 +18,7 @@ bash run-benchmarks.sh
 ## Plot results
 
 ```
-hatch env run --env analysis papermill plot-results.ipynb results.ipynb
+hatch env run --env analysis papermill plot-results.ipynb plot-results.ipynb
 ```
 
 ## License
