@@ -10,7 +10,9 @@ repos:
     rev: v2.3.0
     hooks:
       - id: codespell
+        exclude: "plot-results.ipynb"
         args: ["-L", "fo,ihs,kake,te", "-S", "fixture"]
+
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
     hooks:

@@ -6,7 +6,7 @@
 ## Create benchmarks
 
 ```
-python create_run.py
+hatch env run python create_run.py
 ```
 
 ## Run microbenchmarks

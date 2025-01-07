@@ -12,7 +12,7 @@ df = pd.DataFrame(
     }
 )
 
-n = 20
+n = 100
 shuffled = pd.concat([df.sample(frac=1) for x in range(n)])
 
 with open("run-benchmarks.sh", "a") as f:

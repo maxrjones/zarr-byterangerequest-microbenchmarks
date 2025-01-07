@@ -70,6 +70,7 @@ python = "3.13"
 dependencies = [
     'ipykernel',
     'matplotlib',
+    'scipy',
     'papermill',
 ]
 
