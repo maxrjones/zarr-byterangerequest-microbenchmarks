@@ -44,19 +44,13 @@ check = "mypy --install-types --non-interactive {args:src/zarr_byterangerequest_
 [tool.hatch.envs.tuple]
 python = "3.13"
 dependencies = [
-    'zarr[optional] @ git+https://github.com/zarr-developers/zarr-python@main',
-]
-
-[tool.hatch.envs.typeddict]
-python = "3.13"
-dependencies = [
-    'zarr[optional] @ git+https://github.com/maxrjones/zarr-python@byterange-typeddict',
+    'zarr[optional] @ git+https://github.com/zarr-developers/zarr-python@22ebded93aa88ae1e5f87f6711fa7057ca2e8478',
 ]
 
 [tool.hatch.envs.dataclass]
 python = "3.13"
 dependencies = [
-    'zarr[optional] @ git+https://github.com/maxrjones/zarr-python@byterange-dataclass',
+    'zarr[optional] @ git+https://github.com/maxrjones/zarr-python@literate-byte-ranges',
 ]
 
 [tool.hatch.envs.analysis]

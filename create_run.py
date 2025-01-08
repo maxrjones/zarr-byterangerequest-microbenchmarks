@@ -2,7 +2,7 @@ import pandas as pd
 
 df = pd.DataFrame(
     {
-        "env": ["tuple", "typeddict", "dataclass"],
+        "env": ["tuple", "dataclass"],
     }
 )
 n = 50
