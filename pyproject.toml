@@ -47,11 +47,18 @@ dependencies = [
     'zarr[optional] @ git+https://github.com/zarr-developers/zarr-python@22ebded93aa88ae1e5f87f6711fa7057ca2e8478',
 ]
 
-[tool.hatch.envs.dataclass]
+[tool.hatch.envs.dataclass-if]
 python = "3.13"
 dependencies = [
-    'zarr[optional] @ git+https://github.com/maxrjones/zarr-python@literate-byte-ranges',
+    'zarr[optional] @ git+https://github.com/maxrjones/zarr-python@fff58dc5eb9a52b8b09b63504139b5e9bdcdb5cb',
 ]
+
+[tool.hatch.envs.dataclass-match]
+python = "3.13"
+dependencies = [
+    'zarr[optional] @ git+https://github.com/maxrjones/zarr-python@a7d35f876b1b628b3216da61ee26ba0f3a9d9cf8',
+]
+
 
 [tool.hatch.envs.analysis]
 python = "3.13"

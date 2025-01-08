@@ -13,5 +13,18 @@ def store_results(file, method, exec_time):
 local_setup = """
 import zarr
 import asyncio
-store = store = zarr.storage.LocalStore("example.zarr", read_only=True)
+store = zarr.storage.LocalStore("example.zarr", read_only=True)
+"""
+
+memory_setup = """
+import zarr
+from zarr.core.buffer import cpu
+import asyncio
+
+store = zarr.storage.MemoryStore()
+async def set_value(store):
+    buffer = cpu.Buffer.from_bytes(b"\x01\x02\x03\x04\x01\x02\x03\x04\x01\x02\x03\x04")
+    await store.set("c/0", value=buffer)
+
+asyncio.run(set_value(store))
 """

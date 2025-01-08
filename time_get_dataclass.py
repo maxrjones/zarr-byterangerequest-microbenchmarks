@@ -24,6 +24,5 @@ func = {
 setup = {"local": local_setup, "memory": memory_setup}
 if __name__ == "__main__":
     method = sys.argv[1]
-    storage = sys.argv[2]
-    exec_time = timeit.timeit(stmt=func[method], setup=setup[storage], number=10000)
-    store_results(__file__, method, storage, exec_time)
+    exec_time = timeit.timeit(stmt=func[method], setup=local_setup, number=10000)
+    store_results(__file__, method, exec_time)
