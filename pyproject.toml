@@ -50,12 +50,6 @@ dependencies = [
 [tool.hatch.envs.typeddict]
 python = "3.13"
 dependencies = [
-    'zarr[optional] @ git+https://github.com/maxrjones/zarr-python@literate-byte-ranges',
-]
-
-[tool.hatch.envs.explicitrange]
-python = "3.13"
-dependencies = [
     'zarr[optional] @ git+https://github.com/maxrjones/zarr-python@byterange-typeddict',
 ]
 

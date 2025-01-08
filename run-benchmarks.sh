@@ -1,401 +1,453 @@
 hatch env run --env tuple python create_store.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env typeddict python time_get_range_startstop.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env explicitrange python time_get_range_typeddict.py
-hatch env run --env tuple python time_get_range_startlength.py
-hatch env run --env dataclass python time_get_range_dataclass.py
-hatch env run --env typeddict python time_get_range_startstop.py
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env tuple python time_get_tuple.py get_range
+hatch env run --env typeddict python time_get_typeddict.py get_range
+hatch env run --env dataclass python time_get_dataclass.py get_range
+hatch env run --env tuple python create_store.py
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env dataclass python time_get_dataclass.py get_suffix
+hatch env run --env typeddict python time_get_typeddict.py get_suffix
+hatch env run --env tuple python time_get_tuple.py get_suffix
+hatch env run --env tuple python create_store.py
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env tuple python time_get_tuple.py get_offset
+hatch env run --env dataclass python time_get_dataclass.py get_offset
+hatch env run --env typeddict python time_get_typeddict.py get_offset
